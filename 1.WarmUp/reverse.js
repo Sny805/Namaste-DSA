@@ -1,7 +1,6 @@
 let n = -12134
 
 function reverse(n) {
-
     let rev = 0;
     let xCopy = n;
     n = Math.abs(n)

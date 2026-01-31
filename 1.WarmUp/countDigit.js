@@ -1,4 +1,4 @@
-let n = 0;
+let n = 1234;
 let count = 0;
 function countDigit(n) {
     if (n == 0) return 1;
